@@ -1,4 +1,4 @@
-### Landing Page using NextJs with Static images
+# Landing Page using NextJs with Static images
 
 
 ## Web Screenshot
