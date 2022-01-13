@@ -1,13 +1,8 @@
-## Getting Started
+### Landing Page using NextJs with Static images
 
-Install the dependencies and run the development server
 
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
+## Web Screenshot
+![](nextuiweb.png)
 
-![alt text](http://url/to/img.png)
+## Mobile Screenshot
+![](nextui.png)
